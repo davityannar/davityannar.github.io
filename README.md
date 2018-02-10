@@ -9,6 +9,6 @@ Total application is built with  JS and Jquery.
 
 ## Demo
 Demo  @[dom-tag-depth](https://davityannar.github.io)
-| https://https://davityannar.github.io/
+| https://https://davityannar.github.io
 
 
