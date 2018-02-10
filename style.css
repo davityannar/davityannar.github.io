@@ -1,0 +1,25 @@
+.cnt{
+	text-align: center;
+}
+.grid-square {
+ 	margin:0;
+	padding:0;
+	border:none;
+	outline:1px solid #000;
+	display:inline-flex;
+}
+
+
+
+.gridContainer{
+	position: relative;
+
+	top: 30px;
+	font-size: 0;
+	margin:auto;
+	height:500px;
+	width:500px;
+	padding: 0;
+	border: none;
+}
+

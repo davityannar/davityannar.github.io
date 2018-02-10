@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title> Grid</title>
+	<link rel="stylesheet" href="style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>	
+
+</head>
+<body>
+
+ 
+
+ <div class="container cnt">
+
+    <h1>Draw and colourise square grid</h1>
+    <h4>Cells count (4,9,16,25,36,49,64,81,100)</h4>
+    <input type="number" value="16" min="4" max="100" autofocus required id="myInput" >
+    <p id="demo"></p>
+    <button type="button" onclick="drawGr()">Draw </button>
+    <button type="button" disabled  id="myBtn" onclick="colorise()" >Colorise </button>
+    <button type="button" disabled  id="myBtn1" onclick="resetGr()" >Reset </button>
+
+  <div class="gridContainer"></div>
+</div>
+
+
+<script type="text/javascript" src="script.js"></script>
+</body>
+</html>
