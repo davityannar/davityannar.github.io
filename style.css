@@ -23,3 +23,21 @@
 	border: none;
 }
 
+h1, h2{
+	color:darkorange;
+}
+
+button{
+	height: 40px;
+	width: 80px;
+	background:YellowGreen;
+	border:2px solid darkorange;
+	font-size: 18px;
+}
+
+input{
+	width: 60px;
+	height: 30px;
+	text-align: center;
+	border:2px solid darkorange;
+}
